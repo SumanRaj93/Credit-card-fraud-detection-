@@ -1,4 +1,4 @@
-# 🔍 Credit Card Fraud Detection
+1# 🔍 Credit Card Fraud Detection
 
 > ML-powered fraud detection system using Logistic Regression on real anonymized transaction data. Achieves 99.08% train accuracy with an interactive web interface deployed on GitHub Pages.
 
@@ -178,8 +178,8 @@ Or run directly on **[Google Colab](https://colab.research.google.com/)** — no
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/SumanRaj93
+- LinkedIn: https://www.linkedin.com/in/suman-raj-746727307
 
 ---
 
